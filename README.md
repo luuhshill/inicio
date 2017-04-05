@@ -1,3 +1,3 @@
 # inicio
-Print " pograma 1"
+Print " programa 1"
 
